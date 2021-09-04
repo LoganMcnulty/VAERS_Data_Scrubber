@@ -19,13 +19,9 @@ pd.set_option('display.max_rows', 130)
 # +
 """ If you unpack the  downloaded VAERS .zip onto your desktop, just replace XXX here with User """
 
-vaersVax = r'C:\Users\Logan\Desktop\2021VAERSData\2021VAERSVAX.csv'
-vaersProfiles = r'C:\Users\Logan\Desktop\2021VAERSData\2021VAERSDATA.csv'
-vaersSymptoms = r'C:\Users\Logan\Desktop\2021VAERSData\2021VAERSSYMPTOMS.csv'
-
-# vaersVax = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSVAX.csv'
-# vaersProfiles = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSDATA.csv'
-# vaersSymptoms = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSSYMPTOMS.csv'
+vaersVax = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSVAX.csv'
+vaersProfiles = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSDATA.csv'
+vaersSymptoms = r'C:\Users\  XXX  \Desktop\2021VAERSData\2021VAERSSYMPTOMS.csv'
 # -
 
 # ~ There may be some columns of the Symptoms file that you are interested in, check "Read symptom case profile file" line 13 to change columns that are kept or removed

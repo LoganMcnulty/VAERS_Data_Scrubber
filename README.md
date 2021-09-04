@@ -1,7 +1,7 @@
 # VAERS_Data_Scrubber
 VAERS Covid-19 Vax Symptom Data Scrubbed
 
-*** Not interested in making this political, I just know a decent dataset when I see one ***
+*** Not interested in making this political ***
 
 If you are new to data science, and would like to see an example of organizing large data sets using pandas, check out this relatively simple script I wrote using the publicly available VAERS dataset. 
 

@@ -1,5 +1,5 @@
-# VAERS_Data_Organizer
-VAERS Covid-19 Vax Symptom Data Organized
+# VAERS_Data_Scrubber
+VAERS Covid-19 Vax Symptom Data Scrubbed
 
 *** Not interested in making this political, I just know a decent dataset when I see one ***
 

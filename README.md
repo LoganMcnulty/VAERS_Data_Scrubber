@@ -1,5 +1,5 @@
 # VAERS_Data_Scrubber
-VAERS Covid-19 Vax Symptom Data Scrubbed
+VAERS Covid-19 Vax Symptom Data Scrubbed into pandas
 
 *** Not interested in making this political ***
 

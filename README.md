@@ -6,8 +6,8 @@ NOTE: if pd.read_csv(filePath) throws an error, open the source .csv files, and 
 https://vaers.hhs.gov/data.html
 
 To run the script
-- Download/ fork repo 
-- Check the package requirements
+- Download/ fork repo
 - Download the files in the link
+- Check the package requirements at beginning of script
 - Update the file paths
 - Run the whole thing

@@ -1,5 +1,5 @@
 # VAERS_Data_Scrubber
-Scrubbed VAERS Covid-19 data into pandas dateframe. Over 500k unique records. 
+Scrubbed VAERS Covid-19 data into pandas dateframe.
 
 NOTE: if pd.read_csv(filePath) throws an error, open the source .csv files, and save them. Doing this alleviates the bug, not sure why. Probably needs a specific encoding param.
 
